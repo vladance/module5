@@ -1,0 +1,1 @@
+{"extension":{"messages":["The Windows Subsystem for Linux is not yet installed in Windows.","Show Extension","The 'Remote - WSL' extension is required to complete the action. The extension allows to open a window where commands, extensions and the terminal run in the Linux subsystem."],"keys":["installWSL","showExtensionButton","installRemoteWSLDescription"]}}
